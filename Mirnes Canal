@@ -1,0 +1,180 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BN BIH" tvg-link="" tvg-name="BN BIH" tvg-logo="http://5.189.151.71/BN%20TV.png" group-title="Serbian",BN BIH - BN BIH
+http://strimer2x.vlagor-iptv.com:80/live?channelId=97&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="BN Music" tvg-link="" tvg-name="BN Music" tvg-logo="http://5.189.151.71/BN%20Music.png" group-title="Serbian",BN Music - BN Music
+http://strimer2x.vlagor-iptv.com:80/live?channelId=98&uid=967&deviceMac=00:1a:79:2d:3d:f
+#EXTINF:-1 tvg-id="Grand TV" tvg-link="" tvg-name="Grand TV" tvg-logo="http://5.189.151.71/Grand_Televizija.png" group-title="Serbian",Grand TV - Grand TV
+http://strimer2x.vlagor-iptv.com:80/live?channelId=99&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="DM Sat" tvg-link="" tvg-name="DM Sat" tvg-logo="http://5.189.151.71/DM%20sat.png" group-title="Serbian",DM Sat - DM Sat
+http://strimer04.vlagor-iptv.com:80/live?channelId=100&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="KCN 1" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="KCN 1" tvg-logo="http://5.189.151.71/KCN1.png" group-title="Serbian",KCN 1 - KCN 1
+http://strimer06.vlagor-iptv.com:80/live?channelId=101&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink 1" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Pink" tvg-logo="http://5.189.151.71/PINK.png" group-title="Serbian",Pink - Pink
+http://strimer06.vlagor-iptv.com:80/live?channelId=103&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink 2" tvg-link="" tvg-name="Pink 2" tvg-logo="http://5.189.151.71/PINK%202.png" group-title="Serbian",Pink 2 - Pink 2
+http://strimer03.vlagor-iptv.com:80/live?channelId=104&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink 3 Info" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Pink 3" tvg-logo="http://5.189.151.71/PINK%203.png" group-title="Serbian",Pink 3 - Pink 3
+http://strimer2x.vlagor-iptv.com:80/live?channelId=105&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Plus" tvg-link="" tvg-name="Pink Plus" tvg-logo="http://5.189.151.71/pink%20plus.png" group-title="Serbian",Pink Plus - Pink Plus
+http://strimer04.vlagor-iptv.com:80/live?channelId=106&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Extra" tvg-link="" tvg-name="Pink Extra" tvg-logo="http://5.189.151.71/Pink_Extra.png" group-title="Serbian",Pink Extra - Pink Extra
+http://strimer04.vlagor-iptv.com:80/live?channelId=107&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Romance" tvg-link="" tvg-name="Pink Romance" tvg-logo="" group-title="Serbian",Pink Romance - Pink Romance
+http://strimer03.vlagor-iptv.com:80/live?channelId=108&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Film" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Pink Film" tvg-logo="http://5.189.151.71/PINK%20FILM.png" group-title="Serbian",Pink Film - Pink Film
+http://strimer03.vlagor-iptv.com:80/live?channelId=109&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Soap" tvg-link="" tvg-name="Pink Soap" tvg-logo="http://5.189.151.71/pink_soap_rs.png" group-title="Serbian",Pink Soap - Pink Soap
+http://strimer03.vlagor-iptv.com:80/live?channelId=110&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink SCI-FI" tvg-link="" tvg-name="Pink SCI-FI" tvg-logo="" group-title="Serbian",Pink SCI-FI - Pink SCI-FI
+http://strimer03.vlagor-iptv.com:80/live?channelId=111&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Comedy" tvg-link="" tvg-name="Pink Comedy" tvg-logo="http://5.189.151.71/PinkComedy.png" group-title="Serbian",Pink Comedy - Pink Comedy
+http://strimer03.vlagor-iptv.com:80/live?channelId=112&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Premium" tvg-link="" tvg-name="Pink Premium" tvg-logo="http://5.189.151.71/Pink%20Premium.png" group-title="Serbian",Pink Premium - Pink Premium
+http://strimer01.vlagor-iptv.com:80/live?channelId=113&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink BH" tvg-link="" tvg-name="Pink BH" tvg-logo="http://5.189.151.71/Pink%20BH%20TV.png" group-title="Serbian",Pink BH - Pink BH
+http://strimer04.vlagor-iptv.com:80/live?channelId=114&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink M" tvg-link="" tvg-name="Pink M" tvg-logo="http://5.189.151.71/tt/pink_m.png" group-title="Serbian",Pink M - Pink M
+http://strimer03.vlagor-iptv.com:80/live?channelId=115&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Reality" tvg-link="" tvg-name="Pink Reality" tvg-logo="http://5.189.151.71/Pink%20Reality.png" group-title="Serbian",Pink Reality - Pink Reality
+http://strimer01.vlagor-iptv.com:80/live?channelId=116&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink World" tvg-link="" tvg-name="Pink World" tvg-logo="http://5.189.151.71/Pink_World.png" group-title="Serbian",Pink World - Pink World
+http://strimer03.vlagor-iptv.com:80/live?channelId=117&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink World Cinema" tvg-link="" tvg-name="Pink World Cinema" tvg-logo="" group-title="Serbian",Pink World Cinema
+http://strimer06.vlagor-iptv.com:80/live?channelId=359&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Western" tvg-link="" tvg-name="Pink Western" tvg-logo="http://5.189.151.71/Pink%20Western.png" group-title="Serbian",Pink Western - Pink Western
+http://strimer04.vlagor-iptv.com:80/live?channelId=118&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Pink Kuvar" tvg-link="" tvg-name="Pink Kuvar" tvg-logo="" group-title="Serbian",Pink Kuvar - Pink Kuvar
+http://strimer2x.vlagor-iptv.com:80/live?channelId=269&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="bht1.ba" tvg-link="http://tvprofil.net/xmltv/data/bht1.ba/weekly_bht1.ba_tvprofil.net.xml" tvg-name="BHT 1" tvg-logo="http://5.189.151.71/BHTV.png" group-title="Bosnian",BHT 1 - BHT 1
+http://admin.vlagor-iptv.com:80/live?channelId=119&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="TV1 Sarajevo" tvg-link="" tvg-name="TV1 Sarajevo" tvg-logo="http://5.189.151.71/tv1_ba.png" group-title="Bosnian",TV1 Sarajevo - TV1 Sarajevo
+http://strimer2x.vlagor-iptv.com:80/live?channelId=120&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="obn.ba" tvg-link="http://tvprofil.net/xmltv/data/obn.ba/weekly_obn.ba_tvprofil.net.xml" tvg-name="OBN" tvg-logo="http://5.189.151.71/OBN.png" group-title="Bosnian",OBN - OBN
+http://strimer01.vlagor-iptv.com:80/live?channelId=121&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Hayat TV" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Hayat BH" tvg-logo="http://5.189.151.71/NTV%20Hayat.png" group-title="Bosnian",Hayat BH - Hayat BH
+http://strimer01.vlagor-iptv.com:80/live?channelId=122&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Hayat Plus" tvg-link="" tvg-name="Hayat Plus" tvg-logo="http://5.189.151.71/Hayat_Plus.png" group-title="Bosnian",Hayat Plus - Hayat Plus
+http://strimer01.vlagor-iptv.com:80/live?channelId=123&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Hayat Folk" tvg-link="" tvg-name="Hayat Folk" tvg-logo="http://5.189.151.71/hayat_ba_folk.png" group-title="Bosnian",Hayat Folk - Hayat Folk
+http://strimer06.vlagor-iptv.com:80/live?channelId=124&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Hayat Music" tvg-link="" tvg-name="Hayat Music" tvg-logo="http://5.189.151.71/hayat_ba_music.png" group-title="Bosnian",Hayat Music - Hayat Music
+http://strimer06.vlagor-iptv.com:80/live?channelId=125&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Otv Valentino" tvg-link="" tvg-name="Otv Valentino" tvg-logo="http://5.189.151.71/Valentino.png" group-title="Bosnian",Otv Valentino
+http://strimer04.vlagor-iptv.com:80/live?channelId=325&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Federalna TV" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Federalna TV" tvg-logo="http://5.189.151.71/Federalna.png" group-title="Bosnian",Federalna TV - Federalna TV
+http://strimer06.vlagor-iptv.com:80/live?channelId=126&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Face TV" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="FACE TV" tvg-logo="http://5.189.151.71/FACE.png" group-title="Bosnian",FACE TV - FACE TV
+http://strimer06.vlagor-iptv.com:80/live?channelId=127&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="A1 Balkan" tvg-link="" tvg-name="A1 Balkan" tvg-logo="http://5.189.151.71/alpha_one_tv_balkan.png" group-title="Bosnian",A1 Balkan
+http://strimer04.vlagor-iptv.com:80/live?channelId=345&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="A1 World" tvg-link="" tvg-name="A1 World" tvg-logo="http://5.189.151.71/alpha_one_tv_world.png" group-title="Bosnian",A1 World
+http://strimer04.vlagor-iptv.com:80/live?channelId=346&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="A1 Espana" tvg-link="" tvg-name="A1 Espana" tvg-logo="http://5.189.151.71/alpha_one_tv_espana.png" group-title="Bosnian",A1 Espana
+http://strimer04.vlagor-iptv.com:80/live?channelId=347&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="A1 Exclusive" tvg-link="" tvg-name="A1 Exclusive" tvg-logo="http://5.189.151.71/alpha_one_tv_exclusive.png" group-title="Bosnian",A1 Exclusive
+http://strimer04.vlagor-iptv.com:80/live?channelId=351&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-link="" tvg-name="Al Jazeera Balkans" tvg-logo="http://5.189.151.71/Al%20Jazeera%20Balkans.png" group-title="Bosnian",Al Jazeera Balkans - Al Jazeera Balkans
+http://strimer06.vlagor-iptv.com:80/live?channelId=128&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Hayatovci" tvg-link="" tvg-name="Hayatovci" tvg-logo="http://5.189.151.71/hayatovci-logo.png" group-title="Bosnian",Hayatovci - Hayatovci
+http://strimer2x.vlagor-iptv.com:80/live?channelId=129&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="htv1.hr" tvg-link="http://tvprofil.net/xmltv/data/htv1.hr/weekly_htv1.hr_tvprofil.net.xml" tvg-name="Hrt 1" tvg-logo="http://5.189.151.71/HRT%201.png" group-title="Croatian",Hrt 1 - Hrt 1
+http://strimer2x.vlagor-iptv.com:80/live?channelId=130&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="HRT 2" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Hrt 2" tvg-logo="http://5.189.151.71/HRT%202.png" group-title="Croatian",Hrt 2 - Hrt 2
+http://strimer2x.vlagor-iptv.com:80/live?channelId=131&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="HRT 3" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Hrt 3" tvg-logo="http://5.189.151.71/HRT_3.png" group-title="Croatian",Hrt 3
+http://strimer06.vlagor-iptv.com:80/live?channelId=261&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="HRT 4" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Hrt 4" tvg-logo="http://5.189.151.71/HRT%204.png" group-title="Croatian",Hrt 4
+http://strimer06.vlagor-iptv.com:80/live?channelId=262&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="nova.hr" tvg-link="http://tvprofil.net/xmltv/data/nova.hr/weekly_nova.hr_tvprofil.net.xml" tvg-name="NOVA TV" tvg-logo="http://5.189.151.71/novatvhr.png" group-title="Croatian",NOVA TV - NOVA TV
+http://strimer2x.vlagor-iptv.com:80/live?channelId=132&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="RTL" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="RTL HR" tvg-logo="http://5.189.151.71/RTL.png" group-title="Croatian",RTL HR - RTL HR
+http://admin.vlagor-iptv.com:80/live?channelId=133&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="RTL 2" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="RTL 2" tvg-logo="http://5.189.151.71/RTL%202%20HR.png" group-title="Croatian",RTL 2 - RTL 2
+http://strimer2x.vlagor-iptv.com:80/live?channelId=134&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Doma TV" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Doma tv" tvg-logo="http://5.189.151.71/Doma.png" group-title="Croatian",Doma tv - Doma tv
+http://strimer01.vlagor-iptv.com:80/live?channelId=135&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Sport Klub 1 HR" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Sport Klub 1" tvg-logo="http://5.189.151.71/sport_klub_hr_1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
+http://strimer01.vlagor-iptv.com:80/live?channelId=193&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Sport Klub 2 HR" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Sport Klub 2" tvg-logo="http://5.189.151.71/sport_klub_rs_2.png" group-title="Sport",Sport Klub 2 - Sport Klub 2
+http://strimer01.vlagor-iptv.com:80/live?channelId=194&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Sport Klub 3 HD" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Sport Klub 3" tvg-logo="http://5.189.151.71/sport_klub_rs_3.png" group-title="Sport",Sport Klub 3 - Sport Klub 3
+http://strimer01.vlagor-iptv.com:80/live?channelId=195&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Sport Klub 1 HD" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Sport Klub 1 HD" tvg-logo="http://5.189.151.71/SPORT%20KLUB%201.png" group-title="Sport",Sport Klub 1 HD - Sport Klub 1 HD
+http://strimer05.vlagor-iptv.com:80/live?channelId=196&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Happy TV" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Happy TV" tvg-logo="http://5.189.151.71/happy.png" group-title="Serbian",Happy TV
+http://admin.vlagor-iptv.com:80/live?channelId=94&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Studio B" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Studio B" tvg-logo="http://5.189.151.71/Studio%20B.png" group-title="Serbian",Studio B - Studio B
+http://strimer2x.vlagor-iptv.com:80/live?channelId=302&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Lov i Ribolov" tvg-link="" tvg-name="Lov i Ribolov" tvg-logo="http://5.189.151.71/LR.png" group-title="Croatian",Lov i Ribolov - Lov i Ribolov
+http://strimer04.vlagor-iptv.com:80/live?channelId=140&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="HBO 2" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="HBO 2" tvg-logo="http://5.189.151.71/hbo2_us_hd.png" group-title="Croatian",HBO 2 - HBO 2
+http://admin.vlagor-iptv.com:80/live?channelId=155&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="HBO 3" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="HBO 3" tvg-logo="http://5.189.151.71/hbo3_ce.png" group-title="Croatian",HBO 3
+http://strimer2x.vlagor-iptv.com:80/live?channelId=247&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Cinemax 1" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Cinemax 1" tvg-logo="http://5.189.151.71/Cinemax.png" group-title="Croatian",Cinemax 1 - Cinemax 1
+http://strimer01.vlagor-iptv.com:80/live?channelId=152&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Cinemax 2" tvg-logo="http://5.189.151.71/Cinemax%202.png" group-title="Croatian",Cinemax 2 - Cinemax 2
+http://strimer01.vlagor-iptv.com:80/live?channelId=153&uid=967&deviceMac=00:1a:79:2d:3d:ff
+EXTINF:-1 tvg-id="National Geographic" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Nat Geo Channel" tvg-logo="http://5.189.151.71/Nat%20Geo.png" group-title="Croatian",Nat Geo Channel - Nat Geo Channel
+http://strimer05.vlagor-iptv.com:80/live?channelId=138&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="CNN" tvg-link="" tvg-name="CNN" tvg-logo="http://5.189.151.71/tt/cnn_international_global.png" group-title="English",CNN - CNN
+http://strim#EXTINF:-1 tvg-id="BBC 1" tvg-link="" tvg-name="BBC 1" tvg-logo="http://5.189.151.71/bbc1logo.png" group-title="English",BBC 1 - BBC 1
+http://strimer03.vlagor-iptv.com:80/live?channelId=182&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="BBC 2" tvg-link="" tvg-name="BBC 2" tvg-logo="http://5.189.151.71/BBC_Two.png" group-title="English",BBC 2 - BBC 2
+http://strimer03.vlagor-iptv.com:80/live?channelId=183&uid=967&deviceMac=00:1a:79:2d:3d:ffer03.vlagor-iptv.com:80/live?channelId=187&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="TRT 1 HD" tvg-link="" tvg-name="TRT 1 HD" tvg-logo="http://5.189.151.71/trt1_hd.png" group-title="Turkish",TRT 1 HD - TRT 1 HD
+http://strimer04.vlagor-iptv.com:80/live?channelId=173&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="TRT Turk" tvg-link="" tvg-name="TRT Turk" tvg-logo="http://5.189.151.71/trt_turk_tr.png" group-title="Turkish",TRT Turk
+http://strimer04.vlagor-iptv.com:80/live?channelId=375&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="TRT Muzik" tvg-link="" tvg-name="TRT Muzik" tvg-logo="http://5.189.151.71/trt_muzik.png" group-title="Turkish",TRT Muzik - TRT Muzik
+http://strimer03.vlagor-iptv.com:80/live?channelId=172&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="FOX Movies" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Fox Movies" tvg-logo="http://5.189.151.71/tt/fox_movies_si.png" group-title="Croatian",Fox Movies - Fox Movies
+http://strimer01.vlagor-iptv.com:80/live?channelId=147&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Fox Crime" tvg-link="" tvg-name="Fox Crime" tvg-logo="http://5.189.151.71/tt/fox_crime_global.png" group-title="Croatian",Fox Crime - Fox Crime
+http://strimer01.vlagor-iptv.com:80/live?channelId=148&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Fox Life" tvg-link="" tvg-name="Fox Life" tvg-logo="http://5.189.151.71/tt/+2/fox_life_global.png" group-title="Croatian",Fox Life - Fox Life
+http://strimer01.vlagor-iptv.com:80/live?channelId=149&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Balkanika" tvg-link="" tvg-name="Balkanika" tvg-logo="http://5.189.151.71/balkanika_music_tv.png" group-title="World Channels",Balkanika - Balkanika
+http://strimer06.vlagor-iptv.com:80/live?channelId=256&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="France 4" tvg-link="" tvg-name="France 4" tvg-logo="http://5.189.151.71/france4.png" group-title="World Channels",France 4 - France 4
+http://strimer04.vlagor-iptv.com:80/live?channelId=289&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="France 5 (Fr)" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="France 5" tvg-logo="http://5.189.151.71/france5.png" group-title="World Channels",France 5 - France 5
+http://strimer04.vlagor-iptv.com:80/live?channelId=291&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="TF1 (Fr)" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="TF1" tvg-logo="http://5.189.151.71/tf1.png" group-title="World Channels",TF1
+http://strimer05.vlagor-iptv.com:80/live?channelId=332&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="France Ô" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="France O" tvg-logo="http://5.189.151.71/france_o.png" group-title="World Channels",France O - France O
+http://strimer2x.vlagor-iptv.com:80/live?channelId=280&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="France 2 (Fr)" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="France 2" tvg-logo="http://5.189.151.71/france2.png" group-title="World Channels",France 2 - France 2
+http://strimer04.vlagor-iptv.com:80/live?channelId=281&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="France 3 (Fr)" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="France 3" tvg-logo="http://5.189.151.71/france3.png" group-title="World Channels",France 3 - France 3
+http://strimer04.vlagor-iptv.com:80/live?channelId=288&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="France 4" tvg-link="" tvg-name="France 4" tvg-logo="http://5.189.151.71/france4.png" group-title="World Channels",France 4 - France 4
+http://strimer04.vlagor-iptv.com:80/live?channelId=289&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Viasat History" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Viasat History" tvg-logo="http://5.189.151.71/Viasat_History.png" group-title="Serbian",Viasat History
+http://strimer06.vlagor-iptv.com:80/live?channelId=241&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Viasat Explorer" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Viasat Explore" tvg-logo="http://5.189.151.71/tt/viasat_explore_east.png" group-title="Serbian",Viasat Explore
+http://strimer06.vlagor-iptv.com:80/live?channelId=242&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Viasat Nature" tvg-logo="http://5.189.151.71/Viasat%20Nature.png" group-title="Serbian",Viasat Nature
+http://strimer06.vlagor-iptv.com:80/live?channelId=243&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Rtv islam" tvg-link="" tvg-name="Rtv islam" tvg-logo="http://5.189.151.71/islamchannel.png" group-title="Albanian",Rtv islam - Rtv islam
+http://strimer04.vlagor-iptv.com:80/live?channelId=87&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Medina tv Live" tvg-link="" tvg-name="Medina tv Live" tvg-logo="" group-title="Albanian",Medina tv Live - Medina tv Live
+http://strimer04.vlagor-iptv.com:80/live?channelId=282&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Mecca tv Live" tvg-link="" tvg-name="Mecca tv Live" tvg-logo="" group-title="Albanian",Mecca tv Live - Mecca tv Live
+http://strimer04.vlagor-iptv.com:80/live?channelId=283&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="2-Tring Super" tvg-link="http://91.102.228.206/epg/epg6.xml" tvg-name="Tring Super" tvg-logo="http://5.189.151.71/tring_super.png" group-title="Albanian",Tring Super - Tring Super
+http://strimer06.vlagor-iptv.com:80/live?channelId=72&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-link="" tvg-name="Tring Comedy" tvg-logo="http://5.189.151.71/tring_comedy.png" group-title="Albanian",Tring Comedy - Tring Comedy
+http://strimer01.vlagor-iptv.com:80/live?channelId=73&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="2260-TRING FANTASY" tvg-link="http://91.102.228.206/epg/epg5.xml" tvg-name="Tring Fantasy" tvg-logo="http://5.189.151.71/tring_fantasy.png" group-title="Albanian",Tring Fantasy - Tring Fantasy
+http://strimer06.vlagor-iptv.com:80/live?channelId=74&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="70-TRING HISTORY" tvg-link="http://91.102.228.206/epg/epg5.xml" tvg-name="Tring History" tvg-logo="http://5.189.151.71/tring_history.png" group-title="Albanian",Tring History - Tring History
+http://strimer01.vlagor-iptv.com:80/live?channelId=75&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="66-Tring World" tvg-link="http://91.102.228.206/epg/epg6.xml" tvg-name="Tring World" tvg-logo="http://5.189.151.71/tring_world.png" group-title="Albanian",Tring World - Tring World
+http://strimer01.vlagor-iptv.com:80/live?channelId=76&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-link="" tvg-name="Tring Shqip" tvg-logo="http://5.189.151.71/tring_shqip.png" group-title="Albanian",Tring Shqip - Tring Shqip
+http://strimer2x.vlagor-iptv.com:80/live?channelId=77&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="TV Alfa" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Alfa MK" tvg-logo="http://5.189.151.71/alfa_tv_mk.png" group-title="Macedonian",Alfa MK - Alfa MK
+http://strimer04.vlagor-iptv.com:80/live?channelId=8&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:-1 tvg-id="Nasha TV" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Nasha TV" tvg-logo="http://5.189.151.71/images.png" group-title="Macedonian",Nasha TV
+http://strimer04.vlagor-iptv.com:80/live?channelId=381&uid=967&deviceMac=00:1a:79:2d:3d:ff
