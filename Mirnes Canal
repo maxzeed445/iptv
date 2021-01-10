@@ -178,3 +178,7 @@ http://strimer2x.vlagor-iptv.com:80/live?channelId=77&uid=967&deviceMac=00:1a:79
 http://strimer04.vlagor-iptv.com:80/live?channelId=8&uid=967&deviceMac=00:1a:79:2d:3d:ff
 #EXTINF:-1 tvg-id="Nasha TV" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Nasha TV" tvg-logo="http://5.189.151.71/images.png" group-title="Macedonian",Nasha TV
 http://strimer04.vlagor-iptv.com:80/live?channelId=381&uid=967&deviceMac=00:1a:79:2d:3d:ff
+#EXTINF:0 group-title="(SE) Sweden",TV4 | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/9312.m3u8
+#EXTINF:0 group-title="(SE) Sweden",DISCOVERY CHANNEL | HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10961.m3u8
